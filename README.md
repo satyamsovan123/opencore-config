@@ -58,7 +58,7 @@ I've not tested WiFi and Bluetooth, as I do not have any compatible Broadcom chi
 
 ### **_Dual booting macOS and Windows 10 using same bare metal, using two separate SSDs? I will take that any day over "Type 1 Hypervisor"._**
 
-I've attached a picutre for reference.
+I've attached a picture for reference.
 
 ![A picture showing "About This Mac details" with redacted serial number](about-this-mac.png)
 
