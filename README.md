@@ -5,7 +5,7 @@ If you're ready to dive in, buckle up, cause you already know what you're doing!
 
 My PC specs are -
 
-<table>
+<table style="text-align: left">
   <tr>
     <th>PC Part</th>
     <th>Manufacturer</th> 
